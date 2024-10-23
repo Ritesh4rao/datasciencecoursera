@@ -1,2 +1,2 @@
-# datasciencecourseraCopy
+# datasciencecoursera
 DATA SCIENCE SUBMISSION
